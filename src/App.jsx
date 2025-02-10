@@ -141,6 +141,13 @@ function App() {
                 I’ve been thinking a lot about how much you mean to me. Will you
                 be my Valentine?
               </p>
+
+              <iframe
+                src="https://open.spotify.com/embed/track/5XeFesFbtLpXzIVDNQP22n"
+                frameborder="0"
+                allowtransparency="true"
+                allow="encrypted-media"
+              ></iframe>
             </div>
 
             <div class="flex flex-col gap-2 mr-[40%] items-start">
