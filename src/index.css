@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Simpson";
+  src: local("Simpson"),
+    url("./fonts/Simpson.ttf") format("truetype");
+  font-weight: bold;
+}
